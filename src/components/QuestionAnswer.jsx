@@ -1,4 +1,4 @@
-import Answer from './answers'; // Correct import path
+import Answer from "./Answers"
 
 const QuestionAnswer = ({ item, index }) => {
   if (item.type === 'q') {
